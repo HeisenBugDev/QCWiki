@@ -1,4 +1,6 @@
 *
 !docs/
 !docs/*
+!docs/01_Examples/*
+!docs/05_More_Examples/*
 .htaccess
