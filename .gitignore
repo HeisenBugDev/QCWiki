@@ -1,0 +1,11 @@
+*
+!docs/
+!docs/*
+!docs/01_Examples/*
+!docs/01_Examples/
+!docs/05_More_Examples/*
+!docs/05_More_Examples/
+!img/*
+!img/
+!.gitignore
+.htaccess
