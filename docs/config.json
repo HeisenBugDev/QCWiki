@@ -1,16 +1,14 @@
 {
 	"clean_urls": false,
-	"title": "DAUX.IO",
-	"tagline": "The Easiest Way To Document Your Project",
+	"title": "Quantum Craft",
+	"tagline": "Yet another tech mod that ends with -craft.",
 	"image": "img/app.png",
-	"theme": "navy",
-	"repo": "justinwalsh/daux.io",
-	"twitter": ["justin_walsh", "todaymade"],
+	"theme": "green",
+	"repo": "QuantumCraft/QuantumCraft",
+	"twitter": ["sammko_"],
 	"google_analytics": "UA-12653604-10",
 	"links": {
-		"Download": "https://github.com/justinwalsh/daux.io/archive/master.zip",
-		"GitHub Repo": "https://github.com/justinwalsh/daux.io",
-		"Help/Support/Bugs": "https://github.com/justinwalsh/daux.io/issues",
-		"Made by Todaymade": "http://todaymade.com"
+		"GitHub Repo": "https://github.com/QuantumCraft/QuantumCraft",
+		"Help/Support/Bugs": "https://github.com/QuantumCraft/QuantumCraft/issues"
 	}
 }
