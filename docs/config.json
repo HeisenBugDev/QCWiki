@@ -1,4 +1,5 @@
 {
+	"clean_urls": false,
 	"title": "DAUX.IO",
 	"tagline": "The Easiest Way To Document Your Project",
 	"image": "img/app.png",
