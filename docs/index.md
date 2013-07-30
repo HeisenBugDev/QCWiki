@@ -1,5 +1,5 @@
 <p class="lead">
-	<strong>Daux.io</strong> is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+	<strong>Quantum Craft</strong> is a work in progress mod based around science and things with Quantum in the name. We plan to base the mod around a research system and an energy net too.
 </p>
 
 <hr/>
