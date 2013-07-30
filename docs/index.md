@@ -6,16 +6,13 @@
 <h3>Features</h3>
 <hr/>
 
-* We
-* Still
-* Need
-* To
-* Add
-* Some
-* More
-* Info
-* Over
-* Here
+* Quantum Machine
+* Quantum Items
+* Quantum Block
+* Quantum quantonium
+* More Quantum
+* Quantum that makes more Quantum
+* So much Quantum that the Quantum can't handle my Quantum!
 
 <div class="clear"></div>
 <hr/>
