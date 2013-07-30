@@ -1,0 +1,3 @@
+**QuantumCraft** is a work in progress mod based around science and things with Quantum in the name. We plan to base the mod around a research system and an energy net too.
+##What does it add?
+**QuantumCraft** adds several different *Quantum* machines that use Quantum Energy. You can find a list on the left. But machines aren't everything! We also have Quantonium Crystals which are the most efficient way of getting Quantum Energy. When you suck the crystal dry, it will turn into a depleted crystal. You can also craft Quantum Tools with both types of crystals. If you use the Quantonium one, your tools will get charged tools. otherwise they will be discharged and you would need to charge them in a Quantum Energy Injector.
