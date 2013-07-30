@@ -2,12 +2,13 @@
 	"clean_urls": false,
 	"title": "Quantum Craft",
 	"tagline": "Yet another tech mod that ends with -craft.",
-	"image": "img/app.png",
+	"image": "",
 	"theme": "green",
 	"repo": "QuantumCraft/QuantumCraft",
-	"twitter": ["sammko_"],
-	"google_analytics": "UA-12653604-10",
+	"twitter": ["sammmko", "hunterboerner"],
+	"google_analytics": "",
 	"links": {
+		"Minecraft Forums": "http://www.minecraftforum.net/topic/1891103-162-quantumcraft-wip/",
 		"GitHub Repo": "https://github.com/QuantumCraft/QuantumCraft",
 		"Help/Support/Bugs": "https://github.com/QuantumCraft/QuantumCraft/issues"
 	}
