@@ -1,6 +1,6 @@
-QDE _->_ Quantum De-Energizer
-QDM _->_ Quantum De-Materializer
-QEI _->_ Quantum Energy Injectory
-QDS _->_ Quantum Dislocator
-QES _->_ Quantum Energy Sucker
-QEE _->_ Quantum Energy Extractor
+QDE **->** Quantum De-Energizer
+QDM **->** Quantum De-Materializer
+QEI **->** Quantum Energy Injectory
+QDS **->** Quantum Dislocator
+QES **->** Quantum Energy Sucker
+QEE **->** Quantum Energy Extractor
