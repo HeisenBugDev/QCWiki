@@ -2,7 +2,6 @@
 	<strong>Quantum Craft</strong> is a work in progress mod based around science and things with Quantum in the name. We plan to base the mod around a research system and an energy net too.
 </p>
 
-@@ Flattr
 <script id='fb49bl3'>(function(i){var f,s=document.getElementById(i);f=document.createElement('iframe');f.src='//api.flattr.com/button/view/?uid=hunterboerner&url='+encodeURIComponent(document.URL);f.title='Flattr';f.height=62;f.width=55;f.style.borderWidth=0;s.parentNode.insertBefore(f,s);})('fb49bl3');</script>
 
 <hr/>
